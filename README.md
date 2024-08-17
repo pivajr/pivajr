@@ -4,7 +4,7 @@
 - 🌱 Atualmente estou desenvolvendo alguns cursos online, principalmente na Udemy. Abaixo deixo os links.
 - 📫 Minha página pessoal é: [Página Pessoal de Piva Jr.](https://piva.pro.br)
 ----
-**⚡ Link para meus cursos:**
+**⚡ Link para meus cursos:**  
 Se interessou pela área?  Considere os meus cursos abaixo:
 -----
 👇🎁 CIÊNCIA DE DADOS:do Zero ao Mercado de Trabalho
